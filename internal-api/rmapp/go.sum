@@ -1,4 +1,4 @@
 github.com/go-chi/chi v1.5.4 h1:QHdzF2szwjqVV4wmByUnTcsbIg7UGaQ0tPF2t5GcAIs=
 github.com/go-chi/chi v1.5.4/go.mod h1:uaf8YgoFazUOkPBG7fxPftUylNumIev9awIWOENIuEg=
-github.com/leonerosario92/rmapp/internal/common v0.0.0-20210227223910-d5b14b9a5110 h1:MZqeR5eXnGWXaG1Q7f4O/9Kvc/BdA2Wqo+GYVehI+4c=
-github.com/leonerosario92/rmapp/internal/common v0.0.0-20210227223910-d5b14b9a5110/go.mod h1:+e2wx1oBt3lNAmujoY19QLyH7pxUVHnGxHvkfQ6C+F0=
+github.com/leonerosario92/rmapp/internal-api/common v0.0.0-20210227230217-0bede8fc1668 h1:YlO2yBS8EA/ok47aRlCXigAkxsjlb7/9RIssEuRNYYQ=
+github.com/leonerosario92/rmapp/internal-api/common v0.0.0-20210227230217-0bede8fc1668/go.mod h1:DRUwUfo2WimCdgGM8fhbthZv4gvWHLglPPt9q84cYbA=
