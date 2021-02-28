@@ -39,7 +39,26 @@ paths:
         400:
           description: Bad Request
         500:
-          description: Internal Server Error    
+          description: Internal Server Error
+    get:
+      tags:
+        - group
+      summary: Retrieve all groups
+      operationId: getGroups
+      produces:
+        - application/json
+      parameters:
+        - out: body
+          name: body
+          description: The list of retrieved Groups
+          required: true
+          schema:
+            $ref: '#/components/schemas/Group'
+      responses:
+        200:
+          description: Ok
+        500:
+          description: Internal Server Error
 
 components:
   schemas:
